@@ -4,12 +4,12 @@
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=welcome_to_my_profile;white_hat" alt="Headline" />
     </div>  
-<p align="center"><a href="">Portfolio↗️</a></p>
+<p align="center"><a href="">Portafolio↗️</a></p>
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 ![GitHub followers](https://img.shields.io/github/followers/arjuncvinod?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/arjuncvinod?style=social)<img src="https://komarev.com/ghpvc/?username=arjuncvinod" alt="" />
 
-<picture><img src="https://www.segurilatam.com/wp-content/uploads/sites/5/2022/12/ciberseguridad-global.jpg" width = 120px align="center"></picture> <br> **About Me**
+<picture><img src="https://www.segurilatam.com/wp-content/uploads/sites/5/2022/12/ciberseguridad-global.jpg" width = 150px align="center"></picture> <br> **About Me**
 
 🖥️🔒 I am passionate about cybersecurity
 
