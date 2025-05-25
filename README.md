@@ -26,6 +26,8 @@
  ⚡ Fun fact: **My journey into cybersecurity started as a game hacking my own Android with Termux"**
 
 
+ <picture><img src="https://cdn.shopify.com/s/files/1/0299/9215/7283/files/Certiprof_Certified_iso_27001_Lead_Auditor_e1176957-3ffa-4d7e-8dce-5dc37456b6aa.png?v=1591918096" width = 30px align="center"></picture> <br> **My certicates**
+
  <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="">
  </p>
