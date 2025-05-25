@@ -24,7 +24,7 @@
  ✍ You can find my resume [here]()
 
  ⚡ Fun fact: **My journey into cybersecurity started as a game hacking my own Android with Termux"**
-
+<br>
 
  <picture><img src="https://previews.123rf.com/images/robincreate/robincreate2103/robincreate210300074/166014613-se-gradu%C3%B3-de-la-universidad-con-logros-estilo-de-ilustraci%C3%B3n-de-dibujos-animados-plana.jpg" width = 80px align="center"></picture> <br> **My certicates**
 
