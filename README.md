@@ -9,7 +9,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/arjuncvinod?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/arjuncvinod?style=social)<img src="https://komarev.com/ghpvc/?username=arjuncvinod" alt="" />
 
-<picture><img src="https://media.licdn.com/dms/image/v2/C4E12AQHSg7oewN5d2g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1649094364151?e=2147483647&v=beta&t=zx3uER8Iu3-s6MwnH4KQPjK5evtzdHx_z_AQpr7_lH4" width = 60px align="center"></picture> <br> **About Me**
+<picture><img src="https://media.licdn.com/dms/image/v2/C4E12AQHSg7oewN5d2g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1649094364151?e=2147483647&v=beta&t=zx3uER8Iu3-s6MwnH4KQPjK5evtzdHx_z_AQpr7_lH4" width = 70px align="center"></picture> <br> **About Me**
 
 
  🔭 I’m currently working on [My portfolio website]()
