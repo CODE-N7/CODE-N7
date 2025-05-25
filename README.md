@@ -22,7 +22,7 @@
 
  ✍ You can find my resume [here]()
 
- ⚡ Fun fact: **My first line of code was "Hello World!"**
+ ⚡ Fun fact: **My journey into cybersecurity started as a game hacking my own Android with Termux"**
 
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
