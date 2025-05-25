@@ -9,7 +9,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/arjuncvinod?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/arjuncvinod?style=social)<img src="https://komarev.com/ghpvc/?username=arjuncvinod" alt="" />
 
-<picture><img src="https://www.segurilatam.com/wp-content/uploads/sites/5/2022/12/ciberseguridad-global.jpg" width = 100px align="center"></picture> <br> **About Me**
+<picture><img src="https://www.segurilatam.com/wp-content/uploads/sites/5/2022/12/ciberseguridad-global.jpg" width = 120px align="center"></picture> <br> **About Me**
 
 🖥️🔒 I am passionate about cybersecurity
 
@@ -26,7 +26,7 @@
  ⚡ Fun fact: **My journey into cybersecurity started as a game hacking my own Android with Termux"**
 
 
- <picture><img src="https://previews.123rf.com/images/robincreate/robincreate2103/robincreate210300074/166014613-se-gradu%C3%B3-de-la-universidad-con-logros-estilo-de-ilustraci%C3%B3n-de-dibujos-animados-plana.jpg" width = 30px align="center"></picture> <br> **My certicates**
+ <picture><img src="https://previews.123rf.com/images/robincreate/robincreate2103/robincreate210300074/166014613-se-gradu%C3%B3-de-la-universidad-con-logros-estilo-de-ilustraci%C3%B3n-de-dibujos-animados-plana.jpg" width = 80px align="center"></picture> <br> **My certicates**
 
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
